@@ -60,12 +60,6 @@ This is a simple Node.js application that demonstrates email OTP (One-Time Passw
 4. Enter the OTP in the provided input field and click on the "Verify OTP" button.
 5. You will receive a success message if the OTP is correct.
 
-## Customization
-
-You can customize the application by modifying the following files:
-
-- `config.js`: Update the email configuration, such as the sender's email address and email service.
-- `views/index.ejs`: Modify the HTML and front-end code as needed.
 
 ## Contributing
 
