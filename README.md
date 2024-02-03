@@ -20,13 +20,13 @@ This is a simple Node.js application that demonstrates email OTP (One-Time Passw
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/email-otp-verification-nodejs.git
+   git clone https://github.com/srivarshithdaladuli/Email-OTP-Verification.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd email-otp-verification-nodejs
+   cd Email-Otp-Verification
    ```
 
 3. Install the dependencies:
