@@ -73,7 +73,7 @@ Feel free to contribute to this project by submitting pull requests or opening i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/srivarshithdaladuli/Email-OTP-Verification/blob/master/LICENSE).
 
 ---
 
